@@ -21,3 +21,8 @@ merge-tags.args = $local $other | sort -u >> $output
 .hgtags = merge-tags
 ```
 
+# Hate it?
+
+Good! It's gross, heavy handed and probably shouldn't be written in bash.
+Improve it and let me know.
+
